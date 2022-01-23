@@ -1,8 +1,8 @@
-# Total number of votes cast
-# A comnplete list of candidates who received votes
-# Total number of votes each candidate received
-# Percentage of votes each candidate wonm
-# The winner of the election based on popular vote
+# Calculate the total number of votes cast
+# Get a comnplete list of candidates who received votes
+# Calculate the total number of votes each candidate received
+# Calculate the percentage of votes each candidate won
+# Determine the winner of the election based on popular vote
 
 # Add our dependencies.
 import csv
