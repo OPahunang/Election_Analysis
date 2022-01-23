@@ -30,5 +30,5 @@ In this project the Python script will need to be able to deliver the following 
 5. Determine the winner of the election based on popular vote
 
 ## Challenge Summary
-The project successfully delivered Colorado Board of Elections requirements. It successfully summarized the total votes cast, provided complete list of candidates with their respective votes, total votes received with corresponding percentage and provided who the winner is of the election. The generated reports also provided output in Visual Studio Code terminal and output to txt file named election_analysis.txt.
+The project successfully delivered Colorado Board of Elections requirements. It successfully summarized the total votes cast, provided complete list of candidates with their respective votes, total votes received with corresponding percentage and provided who the winner is in the election. The generated reports also provided output in Visual Studio Code terminal and output to txt file named election_analysis.txt.
 The script developed can be used and modified for future elections.  
