@@ -4,23 +4,23 @@
 
 A Colorado Board of Elections employee has given you the tasks to complete an audit of a recent local congressional election.
 
-In this project the need to develop a Python script that will be able to deliver the following information when the script is run:
+The project is to develop a Python script that enable to deliver the following information when the script is run:
 
- 1. Calculate the total number of votes cast
+   1. Calculate the total number of votes cast
 
- 2. Get a complete list of county votes that:
-  - Calculate the total number of votes per county
-  - Calculate the percentage of votes per county
+   2. Get a complete list of county votes that:
+        - Calculate the total number of votes per county
+        - Calculate the percentage of votes per county
 
- 3. Get a report which county with the largest turnout 
+   3. Get a report which county with the largest turnout 
 
- 4. Get a complete list of candidates who received votes that: 
-  - Calculate the total number of votes each candidate received
-  - Calculate the percentage of votes each candidate won
+   4. Get a complete list of candidates who received votes that: 
+        - Calculate the total number of votes each candidate received
+        - Calculate the percentage of votes each candidate won
 
- 5.Determine the election candidate winner with total vote counts and percentage
+   5. Determine the election candidate winner with total vote counts and percentage
 
- 6. Print the results to the command line and save to a txt file
+   6. Print the results to the command line and save to a txt file
 
 
 ## Election-Audit Results:
