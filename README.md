@@ -1,34 +1,67 @@
 # Election_Analysis
 
-## Project Overview 
-A Colorado Board of Elections employee has given you the following tasks to complete audit of a recent local congressional election.
+## Overview of Election Audit: 
+
+A Colorado Board of Elections employee has given you the tasks to complete an audit of a recent local congressional election.
+
+In this project the need to develop a Python script that will be able to deliver the following information when the script is run:
+
+1.Calculate the total number of votes cast
+
+2.Get a complete list of county votes that:
+ - Calculate the total number of votes per county
+ - Calculate the percentage of votes per county
+
+3.Get a report which county with the largest turnout 
+
+4.Get a complete list of candidates who received votes that: 
+ - Calculate the total number of votes each candidate received
+ - Calculate the percentage of votes each candidate won
+
+5.Determine the election candidate winner with total vote counts and percentage
+
+6. Print the results to the command line and save to a txt file
+
+
+## Election-Audit Results:
+
+-There were 369,711 votes cast in the election 
+
+Results Command Line and TXT file - election_analysis.txt
+
+![PyPoll_Challenge_Terminal_Output.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/PyPoll_Challenge_Terminal_Output.png)
+
+![PyPoll_Challenge_TXT_File_Output.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/PyPoll_Challenge_TXT_File_Output.png)
+
+![Total_Votes_Count.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Total_Votes_Count.png)
+
+
+- Breakdown of the number of votes and the percentage of total votes for each county in the precinct, including the script
+
+![County_votes_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/County_votes_percentage.png)
+
+
+-County that had larget number of votes, including the script
+
+![Largest_County_Turnout.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Largest_County_Turnout.png)
+
+
+- Breakdown of the number of votes and the percentage of the total votes each candidate received, including the script
+
+![Candidate_votes_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Candidate_votes_percentage.png)
+
+
+- Candidate who won the election, with the total vote counts and total percentage, including script
+
+![Winner_Candidate_vote_and_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Winner_Candidate_vote_and_percentage.png)
+
 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.63.2
 
-## Summary
-The analysis of the election show that:
-- There were 369,711 votes cast in the election
-- The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
-- The candidate results were:
-    - Charles Casper Stockham: 23.0% (85,213)
-    - Diana DeGette: 73.8% (272,892)
-    - Raymon Anthony Doane: 3.1% (11,606)
-- The winner of the election was:
-    - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
-In this project the Python script will need to be able to deliver the following information when the script is run:
-1. Calculate the total number of votes cast
-2. Get a comnplete list of candidates who received votes
-3. Calculate the total number of votes each candidate received
-4. Calculate the percentage of votes each candidate won
-5. Determine the winner of the election based on popular vote
+## Election-Audit Summary:
+The project successfully delivered Colorado Board of Elections requirements. It successfully summarized the total votes cast, provided complete list of counties with their respective total vote counts and percentage, provided complete list of candidates with their respective total votes counts and percentage, and provided who is the winner in the election. The generated report output - Visual Studio Code terminal and to a txt file named election_analysis.txt.
 
-## Challenge Summary
-The project successfully delivered Colorado Board of Elections requirements. It successfully summarized the total votes cast, provided complete list of candidates with their respective votes, total votes received with corresponding percentage and provided who the winner is in the election. The generated reports also provided output in Visual Studio Code terminal and output to txt file named election_analysis.txt.
-The script developed can be used and modified for future elections.  
+The developed script can be used for other county election without modification, only need an updated election_results.csv. It can also be used for state or country elections, with modification only of variable definitions for easy tracing of the developer who will modify it.
