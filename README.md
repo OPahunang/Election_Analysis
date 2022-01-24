@@ -72,6 +72,6 @@ The project is to develop a Python script that enable to deliver the following i
 
 
 ## Election-Audit Summary:
-The project successfully delivered Colorado Board of Elections requirements. It successfully summarized the total votes cast, provided complete list of counties with their respective total vote counts and percentage, provided complete list of candidates with their respective total votes counts and percentage, and provided who is the winner in the election. The generated report output - Visual Studio Code terminal and to a txt file named election_analysis.txt.
+The project successfully delivered Colorado Board of Elections requirements. It successfully summarized the total votes cast, provided complete list of counties with their respective total vote counts and percentage, provided largest county turnout, provided complete list of candidates with their respective total votes counts and percentage, and provided who is the winner in the election. The generated report output - Visual Studio Code terminal and to a txt file named election_analysis.txt.
 
 The developed script can be used for other county election without modification, only need an updated election_results.csv. It can also be used for state or country elections, with modification only of variable definitions for easy tracing of the developer who will modify it in the future.
