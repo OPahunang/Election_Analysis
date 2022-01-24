@@ -25,35 +25,42 @@ The project is to develop a Python script that enable to deliver the following i
 
 ## Election-Audit Results:
 
--There were 369,711 votes cast in the election 
+- In this election total of 369,711 votes cast
 
-Results Command Line and TXT file - election_analysis.txt
+   Below is output screenshot of command Line and TXT file (election_analysis.txt)
+   
+         Command Line
+   
+   ![PyPoll_Challenge_Terminal_Output.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/PyPoll_Challenge_Terminal_Output.png)
 
-![PyPoll_Challenge_Terminal_Output.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/PyPoll_Challenge_Terminal_Output.png)
+         election_analysis.txt file
+   
+   ![PyPoll_Challenge_TXT_File_Output.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/PyPoll_Challenge_TXT_File_Output.png)
 
-![PyPoll_Challenge_TXT_File_Output.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/PyPoll_Challenge_TXT_File_Output.png)
 
-![Total_Votes_Count.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Total_Votes_Count.png)
+   Below is the screenshot of total votes including the script 
+   
+   ![Total_Votes_Count.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Total_Votes_Count.png)
 
 
 - Breakdown of the number of votes and the percentage of total votes for each county in the precinct, including the script
 
-![County_votes_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/County_votes_percentage.png)
+   ![County_votes_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/County_votes_percentage.png)
 
 
--County that had larget number of votes, including the script
+- County that had larget number of votes, including the script
 
-![Largest_County_Turnout.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Largest_County_Turnout.png)
+   ![Largest_County_Turnout.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Largest_County_Turnout.png)
 
 
 - Breakdown of the number of votes and the percentage of the total votes each candidate received, including the script
 
-![Candidate_votes_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Candidate_votes_percentage.png)
+   ![Candidate_votes_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Candidate_votes_percentage.png)
 
 
 - Candidate who won the election, with the total vote counts and total percentage, including script
 
-![Winner_Candidate_vote_and_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Winner_Candidate_vote_and_percentage.png)
+   ![Winner_Candidate_vote_and_percentage.png](https://github.com/OPahunang/Election_Analysis/blob/main/Resources/Winner_Candidate_vote_and_percentage.png)
 
 
 ## Resources
